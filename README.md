@@ -49,8 +49,9 @@ Open the **Project Settings** and navigate to the **Chat System Plugin** section
 - **Gemini Model:** Select the specific Gemini model for chat.
 - **Enable Context Memory:** If enabled, the chatbot will remember previous messages for more natural conversations.
 - **Context Message Count:** How many previous messages are included as context. **Warning:** Using a large value here can quickly consume your API quota. This will be improved soon with automatic context summarization.
-
-<img src="./images/Settings.png" alt="Settings" width="500" height="300">
+<p align="center">
+	<img src="./images/Settings.png" alt="Settings" width="1280" height="720">
+</p>
 
 ---
 
