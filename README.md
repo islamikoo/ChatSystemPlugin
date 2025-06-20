@@ -89,5 +89,3 @@ For support, feature requests, or bug reports, please contact the author or use 
 This plugin is licensed for distribution on the Unreal Engine Fab Marketplace. See the source files for details.
 
 ---
-
-> **[Add your own images and diagrams in the placeholders above to enhance the documentation!]** 
