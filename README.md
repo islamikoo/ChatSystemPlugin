@@ -78,14 +78,6 @@ Open the **Project Settings** and navigate to the **Chat System Plugin** section
 
 ---
 
-## Extending the Plugin
-
-This plugin is designed to be extensible. You can add new features such as image generation, custom chat commands, or integration with other AI providers.
-
-> **[Insert diagram or screenshot of extensibility points]**
-
----
-
 ## Support & Feedback
 
 For support, feature requests, or bug reports, please contact the author or use the issue tracker on the plugin's distribution page.
