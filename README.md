@@ -1,6 +1,8 @@
 # Chat System Plugin for Unreal Engine
 
-> **[Insert plugin logo or main screenshot here]**
+<p align="center">
+	<img src="./images/BlueprintFix.png" alt="Main" width="1100" height="550">
+</p>
 
 ## Overview
 
@@ -36,7 +38,9 @@ The **Chat System Plugin** is designed to supercharge your productivity in Unrea
 2. Enable the plugin in the Unreal Editor via **Edit > Plugins**.
 3. Restart the Unreal Editor if prompted.
 
-> **[Insert screenshot of plugin enabled in Unreal Editor]**
+<p align="center">
+	<img src="./images/EnablePlugin.png" alt="EnablePlugin" width="1100" height="550">
+</p>
 
 ### 2. Configuration
 
@@ -62,7 +66,9 @@ Open the **Project Settings** and navigate to the **Chat System Plugin** section
 - To send images, use the image upload button (if enabled).
 - The chat history will display both text and image messages.
 
-> **[Insert screenshot of chat UI in action]**
+<p align="center">
+	<img src="./images/ImagePreviewing.png" alt="ImagePreviewing" width="1100" height="550">
+</p>
 
 ---
 
