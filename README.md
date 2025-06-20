@@ -50,7 +50,7 @@ Open the **Project Settings** and navigate to the **Chat System Plugin** section
 - **Enable Context Memory:** If enabled, the chatbot will remember previous messages for more natural conversations.
 - **Context Message Count:** How many previous messages are included as context. **Warning:** Using a large value here can quickly consume your API quota. This will be improved soon with automatic context summarization.
 <p align="center">
-	<img src="./images/Settings.png" alt="Settings" width="1280" height="720">
+	<img src="./images/Settings.png" alt="Settings" width="720" height="1280">
 </p>
 
 ---
